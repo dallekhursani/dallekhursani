@@ -3,6 +3,8 @@
 
 Welcome to my GitHub! Here, ideas become logic, and logic becomes software.
 
+![Cyberpunk Hacking](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
 
 
 
