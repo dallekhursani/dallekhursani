@@ -10,7 +10,7 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Y4xyhnANDU4AAAAd/crypto-tokeowallet.gif" alt="Crypto Wallet GIF" width="400" />
+  <img src="https://media1.tenor.com/m/Y4xyhnANDU4AAAAC/crypto-tokeowallet.gif" alt="Crypto Wallet GIF" width="400" />
 </p>
 
 ---
