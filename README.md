@@ -18,12 +18,11 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
 ### 🚀 About Me
 
 - 🎓 Computer and Electronics Engineering Student
-- 📱 Full-stack app developer (Flutter, Android, iOS)
-- ⚙️ Backend enthusiast (Node.js, Python, Firebase)
-- 🧠 Strong foundation in system programming (C/C++, Java)
-- 🌱 Currently mastering cloud-native app development
-- 💡 Love architecting complete app solutions
-
+- 🧠 Passionate about transforming ideas into software  
+- 💻 Currently focused on **App Development**, **Python** and **DSA** 
+- 🌱 Learning something new every day  
+- 🛠️ Building from scratch, one line of code at a time
+  
 ---
 
 ### 🛠️ Tech Stack
