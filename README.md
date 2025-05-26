@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&width=435&lines=Nirajan+Parajuli" alt="Nirajan Parajuli" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi+I'am+Nirajan+Parajuli" alt="Hi+I'am+Nirajan Parajuli" />
 </p>
 
-<p align="center" style="color: white;">
-  Mobile App Developer | Problem Solver | Tech Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=FFFFFF&center=true&width=435&lines=Mobile+App+Developer;Problem+Solver" alt="Titles" />
 </p>
 
 ---
 
 <p style="color: white;">
 Hi there 👋  
-I'm Nirajan Parajuli, an app developer passionate about creating smooth mobile experiences and solving real-world problems through code.  
+I'm Nirajan Parajuli, an <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=300&color=FFFFFF&repeat=false&width=120&lines=App+Developer" alt="App Developer" /> passionate about full-stack mobile solutions and building seamless user experiences.  
 </p>
+
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" alt="Coding GIF" />
