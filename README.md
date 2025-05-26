@@ -17,7 +17,7 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
 
 ### 🚀 About Me
 
-- 🎓 Student from Computer and Electronics Engineering Field
+- 🎓 Computer and Electronics Engineering Student
 - 📱 Full-stack app developer (Flutter, Android, iOS)
 - ⚙️ Backend enthusiast (Node.js, Python, Firebase)
 - 🧠 Strong foundation in system programming (C/C++, Java)
@@ -35,19 +35,19 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
 <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,mysql,postman" width="250" alt="backend skills" />  
 
 **Systems & Tools**  
-<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,xcode,figma,linux" width="250" alt="system skills" />  
+<img src="https://skillicons.dev/icons?i=c,cpp,git,vscode,xcode,figma,linux" width="250" alt="system skills" />  
 
 ---
 
 ### 📊 Development Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirajanp&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajanp&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dallekhursani&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallekhursani&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajanp&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallekhursani&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -60,9 +60,6 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
   </a>
   <a href="mailto:nirajan.3.1415@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/nirajanp" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
