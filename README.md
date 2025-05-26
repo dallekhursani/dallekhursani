@@ -19,7 +19,9 @@
 
 ### 🧰 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,git,github,vscode,figma,linux" alt="skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,html,css,git,github,vscode,figma,linux" alt="skills" />
+</p>
 
 ---
 
@@ -37,12 +39,13 @@
 
 ### 📫 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/nirajan-parajuli-392408363" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirajan-parajuli-392408363" target="_blank" style="text-decoration:none;">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:nirajan.3.1415@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nirajan.3.1415@gmail.com" target="_blank" style="text-decoration:none;">
+    <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
 
