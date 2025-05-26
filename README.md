@@ -25,15 +25,33 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🧭 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dallekhursani&show_icons=true&theme=tokyonight" alt="Ram's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallekhursani&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallekhursani&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <b>⬆️ North</b><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=dallekhursani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⬅️ West</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallekhursani&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td></td>
+    <td align="center">
+      <b>➡️ East</b><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dallekhursani&theme=tokyonight" alt="Repos by Language" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <b>⬇️ South</b><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallekhursani&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
