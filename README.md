@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student (still studying)  
+- 🎓 Student specializing in Computer and Electronics Engineering
 - 🧠 Passionate about transforming ideas into software  
-- 💻 Currently focused on **App Development** and **Python**  
+- 💻 Currently focused on **App Development**, **Python** and **DSA** 
 - 🌱 Learning something new every day  
 - 🛠️ Building from scratch, one line of code at a time  
 
@@ -20,7 +20,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,html,css,git,github,vscode,figma,linux" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,java,c,cpp,js,html,css,git,github,vscode,figma,linux" alt="skills" />
 </p>
 
 ---
@@ -41,11 +41,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nirajan-parajuli-392408363" target="_blank" style="text-decoration:none;">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img
+      alt="LinkedIn"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      width="40" height="40"
+      style="border-radius:8px; transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:nirajan.3.1415@gmail.com" target="_blank" style="text-decoration:none;">
-    <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img
+      alt="Email"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+      width="40" height="40"
+      style="border-radius:8px; transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
   </a>
 </p>
 
