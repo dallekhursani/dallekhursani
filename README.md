@@ -27,14 +27,7 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
 
 ### 🛠️ Tech Stack
 
-**Mobile Development**  
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java" width="200" alt="mobile skills" />  
-
-**Backend & APIs**  
-<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,mysql,postman" width="250" alt="backend skills" />  
-
-**Systems & Tools**  
-<img src="https://skillicons.dev/icons?i=c,cpp,git,vscode,xcode,figma,linux" width="250" alt="system skills" />  
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,python,nodejs,firebase,mongodb,mysql,postman,c,cpp,git,vscode,xcode,figma,linux" width="100%" alt="Technology Stack" />  
 
 ---
 
