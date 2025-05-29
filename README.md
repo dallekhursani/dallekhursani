@@ -9,10 +9,6 @@ Hi there 👋
 I'm Nirajan Parajuli, a passionate developer specializing in mobile applications and their backend systems.  
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/MVd8vS7pMlAAAAAC/nootnootmfers-nootnoot.gif" alt="Penguin Smoking" width="400" />
-</p>
-
 ---
 
 ### 🚀 About Me
