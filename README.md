@@ -10,19 +10,19 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/nootnootmfers-nootnoot-pingu-pengu-smoking-gif-8064764268173312889" alt="Penguin Smoking" width="400" />
+  <img src="https://media.tenor.com/MVd8vS7pMlAAAAAC/nootnootmfers-nootnoot.gif" alt="Penguin Smoking" width="400" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Computer and Electronics Engineering Student
+- 🎓 Computer and Electronics Engineering Student  
 - 🧠 Passionate about transforming ideas into software  
-- 💻 Currently focused on **Python** and **DSA** 
+- 💻 Currently focused on **Python** and **DSA**  
 - 🌱 Learning something new every day  
-- 🛠️ Building from scratch, one line of code at a time
-  
+- 🛠️ Building from scratch, one line of code at a time  
+
 ---
 
 ### 🛠️ Tech Stack
