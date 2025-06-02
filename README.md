@@ -4,9 +4,9 @@
 
 ---
 
-<p style="color: white;">
-Hi there 👋  
-I'm Nirajan Parajuli, a passionate developer specializing in mobile applications and their backend systems.  
+<p align="center" style="color: white;">
+  Hi there 👋 <br>
+  I'm <strong>Nirajan Parajuli</strong>, a passionate developer specializing in mobile applications and their backend systems.
 </p>
 
 ---
@@ -23,7 +23,9 @@ I'm Nirajan Parajuli, a passionate developer specializing in mobile applications
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,python,nodejs,firebase,mongodb,mysql,postman,c,cpp,git,vscode,xcode,figma,linux" width="100%" alt="Technology Stack" />  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,python,nodejs,firebase,mongodb,mysql,postman,c,cpp,git,vscode,xcode,figma,linux" alt="Technology Stack" />
+</p>
 
 ---
 
