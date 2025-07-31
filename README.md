@@ -1,9 +1,25 @@
-# 🧠 AI Engineer | Builder of Autonomous Intelligence | Cloud-Native Innovator
+# 🧠 AI Engineer | Builder of Autonomous Intelligence
 
-> "You are in the helipad of an AI engineer — where ideas lift off and intelligence takes flight."
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI Animation">
 
-Hi there 👋 I’m [Nirajan Parajuli], an AI engineer passionate about building intelligent systems that think, learn, and evolve.  
-I design, develop, and deploy machine learning and large language model applications at scale — from zero to orbit.
+<h1 align="center">🛸 Nirajan Parajuli</h1>
+<h3 align="center">AI Engineer | LLM Developer | Model Orchestrator</h3>
+
+<p align="center">
+    <em>“You are in the helipad of an AI engineer — where models lift off and ideas orbit.”</em>
+</p>
+
+---
+
+### 👋 Hello, I’m **Nirajan Parajuli**
+
+🧠 *AI Engineer passionate about building intelligent systems that think, learn, and evolve.*
+
+🚀 I **design**, **develop**, and **deploy** Machine Learning & LLM applications — from **zero to orbit**.
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;AI+Engineer+%7C+LLM+Developer+%7C+Model+Orchestrator;Building+Intelligent+Systems+from+Zero+to+Orbit)](https://github.com/NirajanParajuli)
 
 ---
 
