@@ -2,18 +2,12 @@
 
 > "You are in the helipad of an AI engineer — where ideas lift off and intelligence takes flight."
 
-Hi there 👋 I’m [Your Name], an AI engineer passionate about building intelligent systems that think, learn, and evolve.  
+Hi there 👋 I’m [Nirajan Parajuli], an AI engineer passionate about building intelligent systems that think, learn, and evolve.  
 I design, develop, and deploy machine learning and large language model applications at scale — from zero to orbit.
 
 ---
 
-## 🚀 About Me
-
-- 💼 AI Engineer | [Your Company or Freelance/Research Tag]
-- 📍 Based in [City, Country]
-- 🎓 [Your Degree] — [Your University]
-- 🧠 Specialized in:  
-  `LLMs` • `Multi-Agent Systems` • `MLOps` • `Vision + Language Models` • `Prompt Engineering`
+Chasing for DEGREE of ELECTRONICS and COMPUTER ENGINEERING in IOE ,WRC
 
 ---
 
@@ -44,27 +38,6 @@ I design, develop, and deploy machine learning and large language model applicat
 
 ---
 
-## 📈 Stats & Highlights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🛰️ Contact & Links
-
-- 🧬 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 🧪 [HuggingFace](https://huggingface.co/yourusername)
-- ✉️ Reach me: `your.email@example.com`
-
----
-
 ## 🛸 Final Words
 
 > _“AI isn't just math and models — it’s how we teach machines to think like us and beyond.”_
-
-This is the helipad.  
-The models are fueled.  
-Let’s fly.
-
