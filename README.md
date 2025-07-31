@@ -1,7 +1,5 @@
 # 🧠 AI Engineer | Builder of Autonomous Intelligence
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI Animation">
-
 <h1 align="center">🛸 Nirajan Parajuli</h1>
 <h3 align="center">AI Engineer | LLM Developer | Model Orchestrator</h3>
 
