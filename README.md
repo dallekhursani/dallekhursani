@@ -1,6 +1,6 @@
 # 🧠 AI Engineer | Builder of Autonomous Intelligence
 
-<h1 align="center">🛸 Nirajan Parajuli</h1>
+<h1 align="center">Nirajan Parajuli</h1>
 <h3 align="center">AI Engineer | LLM Developer | Model Orchestrator</h3>
 
 <p align="center">
