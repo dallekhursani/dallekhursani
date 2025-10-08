@@ -1,4 +1,4 @@
-<h1 align="center">🧠 AI Engineer in Training | Builder of Future Intelligence</h1>
+<h1 align="center"> AI Engineer in Training | Builder of Future Intelligence</h1>
 
 <h2 align="center">💲Nirajan Parajuli</h2>
 <h3 align="center">Aspiring AI Engineer | Python | LLMs | LangChain | FastAPI</h3>
@@ -38,15 +38,31 @@
 ## 🛠️ Tools & Tech I’m Exploring
 
 <p align="center">
-  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
-![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=data)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+
+<!-- Programming & Core -->
+<img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter" />
+<img src="https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy" />
+<img src="https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas" />
+<img src="https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=plotly" />
+
+<!-- AI & ML -->
+<img src="https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow" />
+<img src="https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch" />
+<img src="https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai" />
+<img src="https://img.shields.io/badge/-LangChain-333?style=flat&logo=data" />
+
+<!-- Backend & Deployment -->
+<img src="https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi" />
+<img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker" />
+<img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" />
+<img src="https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws" />
+
+<!-- IDE & Tools -->
+<img src="https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab" />
 
 </p>
 
@@ -56,6 +72,9 @@
 
 ### 🤖 [LLM-Basics](https://github.com/yourusername/llm-basics)
 > My early experiments with OpenAI API, LangChain, and prompt engineering — where I learn to talk to models.
+
+### 🦜 [LangChain-Lab](https://github.com/yourusername/langchain-lab)
+> Focused experiments with LangChain — building simple agents, chains, and retrieval systems while learning to orchestrate LLMs.
 
 ### ⚙️ [AI-Playground](https://github.com/yourusername/ai-playground)
 > A personal space to explore Python + ML mini projects and build small intelligent systems.
