@@ -11,10 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/NirajanParajuli">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;Aspiring+AI+Engineer;Exploring+LLMs+%26+LangChain;Learning+to+Build+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=FFA500,FF8C00&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;Aspiring+AI+Engineer;Exploring+LLMs+%26+LangChain;Learning+to+Build+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
-
 
 ---
 
