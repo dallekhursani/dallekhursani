@@ -17,7 +17,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;AI+Engineer+%7C+%7C+Model+Orchestrator;Building+Intelligent+Systems+from+Zero+to+Orbit)](https://github.com/NirajanParajuli)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;AI+Engineer+%7C+Model+Orchestrator;Building+Intelligent+Systems+from+Zero+to+Orbit)](https://github.com/NirajanParajuli)
 
 ---
 
