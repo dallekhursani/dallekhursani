@@ -1,57 +1,68 @@
-# 🧠 AI Engineer | Builder of Autonomous Intelligence
+# 🧠 AI Engineer in Training | Builder of Future Intelligence
 
 <h1 align="center">💲Nirajan Parajuli</h1>
-<h3 align="center">AI Engineer | LLM | LangChain | Model Orchestrator</h3>
+<h3 align="center">Aspiring AI Engineer | Python | LLMs | LangChain | FastAPI</h3>
 
 <p align="center">
-    <em>“You are in the helipad of an AI engineer — where models lift off and ideas orbit.”</em>
+    <em>“Welcome to the helipad of an AI engineer in training — where I’m learning to lift models off and let ideas orbit.”</em>
 </p>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;Aspiring+AI+Engineer;Exploring+LLMs+%26+LangChain;Learning+to+Build+Intelligent+Systems)](https://github.com/NirajanParajuli)
 
 ---
 
 ### 👋 Hello, I’m **Nirajan Parajuli**
 
-🧠 *AI Engineer passionate about building intelligent systems that think, learn, and evolve.*
+🧩 *A beginner AI engineer passionate about exploring how machines can learn, reason, and create.*
 
-🚀 I **design**, **develop**, and **deploy** Machine Learning & LLM applications — from **zero to orbit**.
+🚀 Currently, I’m learning to **design**, **develop**, and **deploy** AI & LLM-based applications — from **zero to orbit**.
 
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;AI+Engineer+%7C+Model+Orchestrator;Building+Intelligent+Systems+from+Zero+to+Orbit)](https://github.com/NirajanParajuli)
-
----
-
-Chasing for DEGREE of ELECTRONICS and COMPUTER ENGINEERING in IOE ,WRC
+🎯 My learning goals:
+- Master **Python** and core AI concepts  
+- Explore **LangChain** and **LLMs**  
+- Build backend APIs with **FastAPI**  
+- Understand **AWS** cloud for deployment  
 
 ---
 
-## 🛠️ Tools & Tech I Fly With
+🎓 Chasing my **Bachelor’s in Electronics and Computer Engineering** at **IOE, WRC**
+
+---
+
+## 🛠️ Tools & Tech I’m Exploring
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=data)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=flat&logo=githubactions)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
 
 ---
 
-## 📦 Featured Projects
+## 🧩 Learning Projects
 
-### 🔗 [LLM-Agent-Hub](https://github.com/yourusername/llm-agent-hub)  
-> A plug-and-play framework for deploying multi-agent systems powered by OpenAI, LangChain, and vector search.
+### 🤖 [LLM-Basics](https://github.com/yourusername/llm-basics)
+> My early experiments with OpenAI API, LangChain, and prompt engineering — where I learn to talk to models.
 
-### 🧠 [VisionPilot](https://github.com/yourusername/visionpilot)  
-> Real-time object recognition with YOLOv8 and deep classification pipelines, ready for drone and AR integration.
+### ⚙️ [AI-Playground](https://github.com/yourusername/ai-playground)
+> A personal space to explore Python + ML mini projects and build small intelligent systems.
 
-### 📡 [PromptForge](https://github.com/yourusername/promptforge)  
-> An experimental playground for fine-tuning prompts, chaining tools, and building cognitive workflows.
+### 🌐 [FastAPI-First](https://github.com/yourusername/fastapi-first)
+> Learning backend development and API deployment for AI-based apps.
 
 ---
 
 ## 🛸 Final Words
 
-> _“AI isn't just math and models — it’s how we teach machines to think like us and beyond.”_
+> _“AI isn’t just about algorithms — it’s how we teach machines to think, one project at a time.”_
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:58A6FF&height=120&section=footer"/>
+</p>
