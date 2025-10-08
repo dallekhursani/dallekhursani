@@ -62,7 +62,6 @@
 
 <!-- IDE & Tools -->
 <img src="https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode" />
-<img src="https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab" />
 
 </p>
 
