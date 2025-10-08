@@ -9,7 +9,11 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;Aspiring+AI+Engineer;Exploring+LLMs+%26+LangChain;Learning+to+Build+Intelligent+Systems)](https://github.com/NirajanParajuli)
+<p align="center">
+  <a href="https://github.com/NirajanParajuli">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Nirajan+Parajuli;Aspiring+AI+Engineer;Exploring+LLMs+%26+LangChain;Learning+to+Build+Intelligent+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -33,6 +37,8 @@
 
 ## 🛠️ Tools & Tech I’m Exploring
 
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=data)
@@ -41,6 +47,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+
+</p>
 
 ---
 
