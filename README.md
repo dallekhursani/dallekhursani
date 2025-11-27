@@ -37,25 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<!-- compact row: stats | languages | streak -->
-<p align="center">
-  <a href="https://github.com/NirajanParajuli">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NirajanParajuli&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/NirajanParajuli">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanParajuli&layout=compact&hide_border=true&theme=radical" alt="Top languages"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NirajanParajuli&hide_border=true&theme=radical" alt="GitHub streak"/>
-  </a>
-</p>
-
-<!-- optional: private contributions -->
-<p align="center">
-  <img alt="GitHub contribution graph" src="https://gh-contrib-stats.vercel.app/api/?username=NirajanParajuli&hide_border=true&theme=radical&include_private=true"/>
-</p>
-<!--START_SECTION:waka-->
 **I'm coding:**  
 ```text
 Python        ████████████████▓░  87 %
