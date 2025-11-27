@@ -1,4 +1,4 @@
-<h1 align="center">♛ AI Engineer in Training | Builder of Future Intelligence</h1>
+<h1 align="center"> AI Engineer in Training | Builder of Future Intelligence</h1>
 
 <h2 align="center"><b>Nirajan Parajuli</b></h2>
 <h3 align="center">Aspiring AI Engineer | Python • LLMs • LangChain • FastAPI</h3>
