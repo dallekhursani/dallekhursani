@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring AI Engineer | Python • LLMs • LangChain • FastAPI</h3>
 
 <p align="center">
-    <em>“Welcome to the helipad of an AI engineer in training — where ideas take off and models find their orbit.”</em>
+    <em>“Welcome to the runway of an AI engineer in training — where ideas take off and models find their orbit.”</em>
 </p>
 
 ---
